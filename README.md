@@ -1,10 +1,11 @@
 # Heart Rate (HR) Signal Features
 
-This repository provides code for extracting time-domain and frequency-domain features from heart rate signals for further HRV analysis.
+This repository contains code for extracting time-domain and frequency-domain features from heart rate signals, facilitating further heart rate variability (HRV) analysis. A sample ECG signal is used in the Jupyter Notebook to demonstrate the entire process, including preprocessing, peak detection, and heart rate calculation, with visualizations to enhance understanding. Finally, features are extracted from segments of the heart rate signal, providing a comprehensive workflow for HRV feature extraction.  
 
-If you find this code useful, please consider citing the paper.
+The affectiveness of used featues are investigated through machine learning methods in below paper, so if you find this code useful, please consider citing the paper.
 
 [**Assessing the Effectiveness of Heart Rate Variability as A Diagnostic Tool for Brain Injuries in Infants**](https://ieeexplore.ieee.org/abstract/document/10782021)
+
 
 ## Extracted Features
 
