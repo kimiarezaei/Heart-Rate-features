@@ -6,6 +6,17 @@ The affectiveness of used featues are investigated through machine learning meth
 
 [**Assessing the Effectiveness of Heart Rate Variability as A Diagnostic Tool for Brain Injuries in Infants**](https://ieeexplore.ieee.org/abstract/document/10782021)
 
+``` bash
+@INPROCEEDINGS{10782021,
+  author={Rezaei, K. and Yu, K. and Mathieson, S. R. and Flynn, A. and Lightbody, G. and Boylan, G.B. and Marnane, W. P.},
+  booktitle={2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+  title={Assessing the Effectiveness of Heart Rate Variability as A Diagnostic Tool for Brain Injuries in Infants}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Support vector machines;Pediatrics;Electric potential;Time-frequency analysis;Medical services;Forestry;Electrocardiography;Feature extraction;Electroencephalography;Heart rate variability;Electrocardiogram;Heart Rate Variability;Hypoxic Ischemic Encephalopathy grading;Seizure;Time and Frequency Domain Features;Random Forest Classifier},
+  doi={10.1109/EMBC53108.2024.10782021}}
 
 ## Extracted Features
 
