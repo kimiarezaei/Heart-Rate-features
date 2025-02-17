@@ -17,6 +17,7 @@ The affectiveness of used featues are investigated through machine learning meth
   pages={1-4},
   keywords={Support vector machines;Pediatrics;Electric potential;Time-frequency analysis;Medical services;Forestry;Electrocardiography;Feature extraction;Electroencephalography;Heart rate variability;Electrocardiogram;Heart Rate Variability;Hypoxic Ischemic Encephalopathy grading;Seizure;Time and Frequency Domain Features;Random Forest Classifier},
   doi={10.1109/EMBC53108.2024.10782021}}
+```
 
 ## Extracted Features
 
